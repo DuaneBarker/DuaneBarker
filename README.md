@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuaneBarker
-- 👀 I’m interested in develop mi coding skills. 
+- 👀 I’m interested in develop my coding skills. 
 - 🌱 I’m currently learning T-SQL on SSMS and SSIS packages for DB Management.
 - 💞️ I’m looking to collaborate on anything that I can suport with.
 - 📫 How to reach me:
