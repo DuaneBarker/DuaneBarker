@@ -13,8 +13,7 @@
 ## 🇪🇸 Español
 
 ### Sobre mí
-Ingeniero Biomédico (Tec de Monterrey) con trayectoria de **Analytics Engineering a Data Engineering**, hoy enfocado en habilitar soluciones de **IA y Machine Learning** sobre datos confiables. Actualmente curso la **Maestría en Inteligencia Artificial Aplicada**.
-
+Ingeniero Biomédico (Tec de Monterrey) con trayectoria de **Analytics Engineering a Data Engineering**, hoy enfocado en habilitar soluciones de **IA y Machine Learning** sobre datos confiables.
 ### 🛠️ Habilidades
 
 | Área | Tecnologías |
@@ -34,7 +33,6 @@ Ingeniero Biomédico (Tec de Monterrey) con trayectoria de **Analytics Engineeri
 
 ### 🎓 Formación y certificaciones
 - Ingeniería Biomédica — Tec de Monterrey
-- Maestría en Inteligencia Artificial Aplicada *(en curso)*
 - Advanced Google Analytics · Coursera · Platzi (SQL, Visualización de datos para BI)
 
 ### 🤝 Colaboración
@@ -48,8 +46,7 @@ Me interesa colaborar en proyectos de datos, automatización e IA aplicada, y ap
 ## 🇺🇸 English
 
 ### About me
-Biomedical Engineer (Tec de Monterrey) who moved from **Analytics Engineering to Data Engineering**, now focused on enabling **AI and Machine Learning** solutions on top of reliable data. I'm currently pursuing a **Master's in Applied Artificial Intelligence**.
-
+Biomedical Engineer (Tec de Monterrey) who moved from **Analytics Engineering to Data Engineering**, now focused on enabling **AI and Machine Learning** solutions on top of reliable data.
 ### 🛠️ Skills
 
 | Area | Technologies |
@@ -69,7 +66,6 @@ Biomedical Engineer (Tec de Monterrey) who moved from **Analytics Engineering to
 
 ### 🎓 Education & certifications
 - B.S. in Biomedical Engineering — Tec de Monterrey
-- Master's in Applied Artificial Intelligence *(in progress)*
 - Advanced Google Analytics · Coursera · Platzi (SQL, Data Visualization for BI)
 
 ### 🤝 Collaboration
